@@ -377,7 +377,7 @@
 (function initTypingAnimation() {
   var target  = document.getElementById('typing-text');
   var cursor  = document.querySelector('.typing-cursor');
-  var text    = 'Aspiring event coordinator & MICT student with multicultural experience across continents.';
+  var text    = 'Aspiring event coordinator & MICT graduate with multicultural experience across continents.';
   var index   = 0;
   var speed   = 35; // milliseconds per character
 
